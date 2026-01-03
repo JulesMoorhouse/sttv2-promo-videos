@@ -1,0 +1,1 @@
+sh /Users/jm/Dropbox/Code_ObjC/STT_V2_HD/fastlane/promo/process-video.sh 'final' '/Users/jm/Dropbox/Code_ObjC/screenshots/STT_V2_HD/videos/ru-RU/iPad_Pro__12.9-inch___3rd_generation_/final.mp4' '/Users/jm/Dropbox/Code_ObjC/screenshots/STT_V2_HD/videos/ru-RU/iPad_Pro__12.9-inch___3rd_generation_/final-video.mp4'
